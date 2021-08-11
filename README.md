@@ -1,10 +1,14 @@
 ## :man_technologist: Hi! My name is Douglas and I'm a Data Scientist :bar_chart:
 
-- :coffee: I turn coffee into code
-- :robot: Obsessed with everything tech
-- :mag_right: Learning and doing research in Natural Language Processing
-- :video_game: CS:GO player in free time
-- :100: Iron Man is the best Avenger
+:coffee: I turn coffee into code
+
+:robot: Obsessed with everything tech
+
+:mag_right: Learning and doing research in Natural Language Processing
+
+:video_game: CS:GO player in free time
+
+:100: Iron Man is the best Avenger
 
 ---
 
