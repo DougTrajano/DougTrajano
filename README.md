@@ -12,17 +12,21 @@
 
 ---
 
-## Connect
-
-<a href="https://twitter.com/doug_trajano" target="_blank"><img align="left" alt="Douglas Trajano | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/douglas-trajano/" target="_blank"><img alt="Douglas Trajano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
----
-
-## GitHub Stats
-
 ![](https://komarev.com/ghpvc/?username=DougTrajano)
 
-![DougTrajano's github stats](https://github-readme-stats.vercel.app/api?username=DougTrajano&show_icons=true&hide_border=true&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DougTrajano&theme=dark)
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DougTrajano&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougTrajano&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+</div>
+  
+<div>
+  <a href="https://github.com/DougTrajano" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/douglas-trajano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:douglas.trajano@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+ 	<a href="https://twitter.com/doug_trajano" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/dougtrajano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/dougtrajano/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/DougTrajano/DougTrajano/blob/output/github-contribution-grid-snake.svg)
+</div>
