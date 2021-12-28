@@ -4,7 +4,7 @@
 
 :robot: Obsessed with everything tech
 
-:mag_right: Learning and doing research in Natural Language Processing
+:mag_right: Learning and doing research in Natural Language Processing, Reinforcement Learning, etc.
 
 :video_game: CS:GO player in free time
 
