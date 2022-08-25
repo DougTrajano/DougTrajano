@@ -1,10 +1,9 @@
-## :man_technologist: Hi! My name is Douglas and I'm a Data Scientist :bar_chart:
-
-:coffee: I turn coffee into code
+<h1 align="center">Hi 👋, I'm Douglas Trajano</h1>
+<h3 align="center">A passionate Data Scientist from Brazil</h3>
 
 :robot: Obsessed with everything tech
 
-:mag_right: Learning and doing research in Natural Language Processing, Reinforcement Learning, etc.
+:mag_right: Learning and doing research in Natural Language Processing and Deep Reinforcement Learning.
 
 :video_game: CS:GO player in free time
 
@@ -46,10 +45,6 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DougTrajano&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DougTrajano&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DougTrajano&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ![](https://komarev.com/ghpvc/?username=DougTrajano)
 
 <div>
@@ -58,6 +53,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougTrajano&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dougtrajano" alt="dougtrajano" /></a> </p>
+  
 <div>
 <a href="https://github.com/DougTrajano" target="_blank"><img
         src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
