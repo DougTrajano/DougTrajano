@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Douglas Trajano</h1>
-<h3 align="center">A passionate Data Scientist from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Douglas</h1>
+<p align="center">A passionate Data Scientist from Brazil.</p>
 
-:robot: Obsessed with everything tech
+:robot: Obsessed with everything tech.
 
 :mag_right: Learning and doing research in Natural Language Processing and Deep Reinforcement Learning.
 
-:video_game: CS:GO player in free time
+:video_game: A gamer in free time.
 
-:100: Iron Man is the best Avenger
+:100: Iron Man is the best Avenger.
 
 ## Some buzzwords
 
