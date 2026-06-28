@@ -3,7 +3,7 @@
 
 :robot: Obsessed with everything tech.
 
-:mag_right: Learning and doing research in Natural Language Processing and Deep Reinforcement Learning.
+:mag_right: Learning and doing research in Agentic AI, Natural Language Processing (NLP) and Deep Reinforcement Learning (DRL).
 
 :video_game: A gamer in free time.
 
